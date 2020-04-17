@@ -19,7 +19,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     /**
-     默认第一例，UITextField的验证
+     默认第一例，UITextField的验证，storyboard显示界面
      */
     
     /**
